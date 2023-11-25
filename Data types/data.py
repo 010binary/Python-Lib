@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Types of data in Python 
 
 #Strings
