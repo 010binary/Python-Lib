@@ -5,6 +5,8 @@
 
 This project serves as a reference guide for various Python concepts, providing explanations and code examples to assist in understanding.
 
+# this repo was Design in vim Cli as sure **# !/usr/bin/env python** was added so it would run from the cli
+
 ## Topics Covered
 
 ### 1. Data Types
